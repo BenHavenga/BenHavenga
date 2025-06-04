@@ -36,20 +36,10 @@
 
 
 
-<details>
-  <summary><strong>🧮 Personal Finance Tracker (Next.js + Firebase)</strong></summary>
-  <br />
-  Full-stack budgeting app for expense tracking and analytics.
-  <br /><br />
-</details>
-
-
----
-
 ## 🧠 Fun Facts
 
 - 🧳 I've traveled across Europe with just a 10kg backpack and a balance sheet.
-- 🏊‍♂️ I’m training for my first sprint triathlon.
+- 🏊‍♂️ I’m training for my first triathlon.
 - ⚙️ I build things that bridge data and decisions.
 
 ---
