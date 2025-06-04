@@ -35,12 +35,6 @@
 ---
 
 
-<details>
-  <summary><strong>📈 IPO Case Study – Birkenstock</strong></summary>
-  <br />
-  Analyzed Birkenstock’s IPO performance, peer comps, valuation, and risk disclosures from the S-1 filing.
-  <br /><br />
-</details>
 
 <details>
   <summary><strong>🧮 Personal Finance Tracker (Next.js + Firebase)</strong></summary>
