@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hey, I'm Ben Havenga</h1>
 <p align="center">
-  <em>Engineering & Management Student&nbsp;• Pivoting into Investment Banking</em><br/>
+  <em>Engineering & Management Student&nbsp;• Pivoting Into a Career in Investment Banking</em><br/>
   <strong>Blending finance, coding & modeling to drive smarter decisions.</strong>
 </p>
 
@@ -26,7 +26,7 @@
 ---
 
 ## 🚀 About Me
-I’m an Engineering & Management student passionate about leveraging technology and finance to build insightful solutions. Currently pivoting into Investment Banking, I love bridging the gap between data, modeling, and strategic decision-making. Whether it’s crafting a robust DCF model or automating processes with Python, I’m always looking to learn and build.
+I’m an Engineering & Management student passionate about leveraging technology and finance to build insightful solutions. Currently learning how to lend my skills into Investment Banking, I love bridging the gap between data, modeling, and strategic decision-making. Whether it’s crafting a robust DCF model or automating processes with Python, I’m always looking to learn and build.
 
 ---
 
