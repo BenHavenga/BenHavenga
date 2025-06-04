@@ -34,14 +34,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-<details>
-  <summary><strong>📊 LVMH Valuation – DCF & Comps</strong></summary>
-  <br />
-  Built a 3-statement financial model in Excel and performed a full valuation using DCF and trading comps. Includes a downloadable model and a write-up.
-  <br /><br />
-</details>
 
 <details>
   <summary><strong>📈 IPO Case Study – Birkenstock</strong></summary>
