@@ -17,7 +17,7 @@
   <a href="https://havenga.xyz">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://havenga.xyz/BenHavenga.pdf">
+  <a href="https://havenga.xyz/CV.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=readthedocs" />
   </a>
 </p>
